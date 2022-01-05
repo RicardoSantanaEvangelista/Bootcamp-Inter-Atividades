@@ -1,6 +1,8 @@
 
 // Funções
 
+// Função para identificar os números pares e ímpares de um array !
+
 function returnEvenValues(array){
     let evenNums = [];
     for(let i = 0; i < array.length; i++){
