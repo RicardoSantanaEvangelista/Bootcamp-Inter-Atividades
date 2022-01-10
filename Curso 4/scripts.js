@@ -29,7 +29,7 @@ console.log(FIRST_NAME);*/
 /*ESTRURA DE DADOS*/
 
 
-let nome = "João Ricardo";
+/*let nome = "João Ricardo";
 
 let sobreNome = "De Santana Evangelista";
 
@@ -45,15 +45,15 @@ console.log(`${nome} ${sobreNome} = ${name}`); // Outra forma de concatenar
 
 /*métodos* */
 
-console.log(nome.split("")); // Seprando por letra
+//console.log(nome.split("")); // Seprando por letra
 
-console.log(nome.split(" ")); // Separando por palavra
+//console.log(nome.split(" ")); // Separando por palavra
 
-console.log(nome.includes("Ricardo")); // procurando por palavra
+///console.log(nome.includes("Ricardo")); // procurando por palavra
 
-console.log(nome.startsWith("J")) // Perguntando se a frase ou palavra começa com J
+//console.log(nome.startsWith("J")) // Perguntando se a frase ou palavra começa com J
 
-console.log(nome.endsWith("O")) // pERGUNTANDO SE A FRASE TERMINA COM o
+//console.log(nome.endsWith("O")) // pERGUNTANDO SE A FRASE TERMINA COM o
 
-console.log(nome.replace("J", "R")); // Mudando as letras de uma frase, podendo alterar qualquer parte dela
+//console.log(nome.replace("J", "R")); // Mudando as letras de uma frase, podendo alterar qualquer parte dela*/
 
