@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(16, 153, 238);
+    width: 70%;
+    height: 70%;
+    margin: 5% 5% 5% 15%;
+    border-radius: 5%;
+}
+
+#cat{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    color: #FFF;
+    background-color: rgb(56, 46, 185);
+    box-shadow: 1px #fff solid;
+}
