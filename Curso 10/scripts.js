@@ -1,4 +1,4 @@
-const apple = {
+/*const apple = {
     value: 2,
 };
 
