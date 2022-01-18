@@ -8,7 +8,6 @@ import Card from  './components/Card';
         <ul>
           <Item>Item 1</Item>
           <Item>Item 2</Item>
-          <Item>Item 3</Item>
         </ul>
         <Card/>
      </>
