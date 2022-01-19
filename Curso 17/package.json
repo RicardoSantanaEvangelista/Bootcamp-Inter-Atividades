@@ -1,0 +1,15 @@
+{
+  "name": "curso-17-de-node",
+  "version": "1.0.0",
+  "description": "Curso de node da DIO",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Ricardo Santana",
+  "license": "ISC"
+}
